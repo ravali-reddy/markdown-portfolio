@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+:smile:
+:heart:
+- a
+- b
+- this
+- is
+- a 
+- list
